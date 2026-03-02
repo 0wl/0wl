@@ -1,9 +1,9 @@
  <h1 align="center">Hi, I'm Owl</h1>
 <h3 align="left">Full time student in Hungary.</h3>
 
-- 🌱 I’m currently learning **c# cpp and HTML**
+- 🌱 I’m currently a studying at SZE
 
-- 📫 Discord **owl#0069**
+- 📫 Discord **im.owl**
 
 
 <h3 align="left">Languages and Tools:</h3>
